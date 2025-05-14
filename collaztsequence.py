@@ -1,4 +1,4 @@
-print("Mohd Jawwad Ali Farooqui,USN:1AY24AI070,SEC:O")
+print("likith raj n,USN:1AY24AI061,SEC:O")
 def collatz(number):
     if number % 2 == 0:
         result = number 
